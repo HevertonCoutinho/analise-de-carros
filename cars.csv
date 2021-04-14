@@ -1,0 +1,26 @@
+#,Car brand,Car model,Release year,"Models sold, in thousands","Maximum speed, km/h",Percent of sells among the brand,"Sales in 2018, in thousands","Price, $"
+1,Toyota,Corolla,1966,43000,220,15,1200,12000
+2,Ford,F-Series,1977,40000,210,8,400,27000
+3,Volkswagen,Golf,1974,30000,240,20,2500,18000
+4,Volkswagen,Beetle,1938,23000,254,15,259,15000
+5,Vaz,2101,1970,19000,180,30,10,12000
+6,Honda,Civic,1972,18000,270,10,400,17000
+7,Ford,Escort,1968,17800,200,12,200,18000
+8,Honda,Accord,1976,17000,280,7,100,14000
+9,Ford,Model T,1908,15600,80,5,0,0
+10,Volkswagen,Passat,1973,15400,260,10,1000,17000
+11,Ford,Fiesta,1976,15000,250,4,800,15000
+12,Chevrolet,Impala,1958,14500,290,3,40,20000
+13,"BMW ","M3 Series ",1975,14000,270,10,70,18000
+14,Opel,Corsa,1983,13000,230,9,650,11000
+15,Ford,Focus,1998,13000,250,20,1500,15000
+16,"Chrysles ",Town & Country,1990,12500,180,9,150,17000
+17,Volkswagen,Polo,1975,12300,250,7,350,14000
+18,Renault,Clio,1990,12000,240,15,120,18000
+19,Opel,Astra,1991,11700,230,7,400,22000
+20,Oldsmobile,Cutclass,1961,11400,180,2,0,0
+21,Mazda,323,1963,10500,200,15,0,0
+22,Volkswagen,Jetta,1979,10200,190,5,220,22000
+23,Toyota,Camry,1982,10000,280,8,400,25000
+24,Mercedes Benz,C-Class,1994,10000,290,22,450,30000
+25,Ford,Mustang,1964,9500,300,3,150,65000
